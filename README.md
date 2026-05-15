@@ -1,6 +1,6 @@
 # Amazon Prime Video Hold Space Speedup
 
-* Script basically makes Amazon Prime Video players function like YouTube player *
+* Script basically makes Amazon Prime Video players function like YouTube player, initially made for a friend , but turnss out it's quite useful lol * 
 
 A Tampermonkey userscript for Amazon Prime Video
 It lets you hold **Space** to temporarily speed up playback, tap **Space** to play/pause, and keeps controls visible when paused
